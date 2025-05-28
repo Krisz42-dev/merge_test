@@ -8,3 +8,5 @@ new feature in feature branch
 some modification in master
 new feature1
 
+feature2
+
