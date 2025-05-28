@@ -4,5 +4,7 @@ edited text2 again in master
 
 new feature in feature branch
 
+
 some modification in master
+new feature1
 
